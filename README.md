@@ -54,9 +54,9 @@ Markdown standards established by the [Markdown linting
 tool](https://github.com/markdownlint/markdownlint) and, optionally, the writing
 standards set by the [Proselint tool](http://proselint.com/).
 
-The source code in the `DisplayOutput.java` file must also pass additional tests
+The source code in the `CreditCard.java` file must also pass additional tests
 set by the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader). For
-instance, GatorGrader will check to ensure that `DisplayOutput` produces exactly
+instance, GatorGrader will check to ensure that `CreditCard` produces exactly
 four lines of output and that you correctly use the `new Date()` construct in
 the Java code. When you use the `git commit` command to transfer your source
 code to your GitHub repository, [Travis CI](https://travis-ci.com/) will
@@ -208,7 +208,7 @@ directory for this assignment where the `build.gradle` file is located.
 ## Expected Program Output
 
 Typing the command `gradle run` in the terminal window should produce the
-following output for the completed version of `DisplayOutput`. As long as your
+following output for the completed version of `CreditCard`. As long as your
 program adheres to all of the requirements for the assignment and passes all of
 the verification checks, your version should produce similar output. With that
 said, program output may vary according to, for instance, the name of the
