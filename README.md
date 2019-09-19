@@ -319,7 +319,7 @@ updates, then you can type this command in the main directory for this
 assignment:
 
 ```
-git remote add download git@github.com:Allegheny-Computer-Science-101-F2019/cs101-F2019-lab1-starter/
+git remote add download git@github.com:Allegheny-Computer-Science-101-F2019/cs101-F2019-lab1-starter.git
 ```
 
 You should only need to type this command once; running the command additional
