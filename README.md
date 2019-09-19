@@ -24,11 +24,11 @@ Designed for use with [GitHub Classroom](https://classroom.github.com/) and
 contains the starter for a laboratory assignment in an introductory computer
 science class that uses the Java programming language. The Travis CI builds for
 this repository will not pass, as evidenced by a red &#x2717; instead of a
-green &#x2714; appearing in the commit logs. An instructor would use this
-repository to create a "starter" repository with purposefully omitted features
-that a student would then need to add in order to achieve the stated learning
+green &#x2714; appearing in the commit logs. An instructor has used this
+repository as a "starter" repository with purposefully omitted features that a
+student would then need to add in order to achieve the stated learning
 objectives. Please bear in mind that much of the content in this document is
-written in its current form under the assumption that it will accompanies the
+written in its current form under the assumption that it will accompany the
 "starter" repository that an instructor shares with a student through the use
 of [GitHub Classroom](https://classroom.github.com/).
 
